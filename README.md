@@ -1,2 +1,2 @@
 # azure-machine-learning
-Repo working through creating azure machine learning pipelines
+Repo working through creating pipelines, compute clusters and estimators on the azure machine learning platform.  
